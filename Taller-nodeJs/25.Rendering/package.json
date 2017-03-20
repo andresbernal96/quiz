@@ -1,0 +1,14 @@
+{
+  "name": "punto25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "punto25.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

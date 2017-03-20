@@ -1,0 +1,15 @@
+{
+  "name": "punto21",
+  "version": "1.0.0",
+  "dependencies": {
+    "connect": "2.2.1",
+    "underscore": "1.3.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Bernal",
+  "license": "ISC"
+}
